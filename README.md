@@ -13,10 +13,6 @@ This repository contains the HTML and CSS files for my resume.
 
 You can preview the resume by opening `resume.html` in a web browser.
 
-## Usage
-
-Feel free to use or modify these files for creating your own resume. You can customize the content and styling according to your preferences.
-
 ## Author
 
 Sai Mahitha Kopuru
